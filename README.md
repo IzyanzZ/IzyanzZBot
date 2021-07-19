@@ -1,2 +1,4 @@
 # IzyanzZBot
-A public Template Discord.JS
+Credit To CTK-Warrior For Command Handler!
+# Commands List💎
+Normal Prefix #=
